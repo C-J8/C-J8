@@ -37,7 +37,7 @@ I build projects at the intersection of data analysis, artificial intelligence, 
 
 <p align="center">
   <picture>
-    <img src="./github-metrics.svg" alt="Celso Junior's GitHub activity, repository languages, and contribution calendar" width="500">
+    <img src="./github-metrics.svg?v=2" alt="Celso Junior's GitHub activity, repository languages, and contribution calendar" width="500">
   </picture>
 </p>
 
