@@ -44,7 +44,7 @@ jobs:
           repositories_affiliations: owner
           repositories_forks: no
           config_timezone: America/Sao_Paulo
-          config_display: columns
+          config_display: regular
           config_animations: no
           config_order: base.header, base.activity+community, base.repositories, languages, isocalendar
           plugin_languages: yes
