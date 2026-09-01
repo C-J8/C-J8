@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Celso Junior 👋</h1>
 
-<!--
-**C-J8/C-J8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Data · Machine Learning · Web Applications</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Turning data into insights, models, and useful tools.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About me
+
+I build projects at the intersection of data analysis, artificial intelligence, and software engineering. Here you will find everything from tactical CS2 analytics pipelines to language model training and practical applications.
+
+- **Data:** exploratory analysis, feature engineering, and visualization.
+- **AI:** language model training, fine-tuning, and evaluation.
+- **Applications:** dashboards and tools built with Python, TypeScript, and PostgreSQL.
+
+### Technologies in my projects
+
+`Python` · `PyTorch` · `Jupyter` · `Streamlit`
+
+`TypeScript` · `Next.js` · `Prisma` · `PostgreSQL` · `Docker`
+
+### Featured projects
+
+| Project | What you will find |
+| :--- | :--- |
+| [**CS2 Tactical Analytics**](https://github.com/C-J8/cs2-tactical-analytics) | A tactical analytics pipeline with demo processing, feature engineering, and exploratory models. |
+| [**Small Language Model**](https://github.com/C-J8/slm-pretraining-entrega1) | A roughly 100M-parameter language model with pre-training, fine-tuning, and evaluation in PyTorch. |
+| [**Gym Tracker**](https://github.com/C-J8/gym-tracker) | A pipeline that imports workouts recorded on WhatsApp into PostgreSQL and presents them in a Streamlit dashboard. |
+| [**Weekly Planner**](https://github.com/C-J8/planejador-semanal) | A weekly planning application built with Next.js, Prisma, and PostgreSQL. |
+
+### GitHub metrics
+
+<p align="center">
+  <picture>
+    <img src="./github-metrics.svg" alt="Celso Junior's GitHub activity, repository languages, and contribution calendar" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Activity, languages, and contributions · Updated daily with <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sub>
+</p>
