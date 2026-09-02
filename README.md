@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Celso Junior 👋</h1>
-
 <p align="center">
   <strong>Data · Machine Learning · Web Applications</strong>
 </p>
